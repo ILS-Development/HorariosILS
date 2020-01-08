@@ -22,7 +22,7 @@
             <div id="all">
 
                 <ul>
-                    <li><a href="#">Horarios</a></li>
+                    <li><a href="Horario_01.html">Horarios</a></li>
                     <li><a href="#">Insertar</a></li>
                     <li><a href="#">Actualizar</a></li>
                     <li><a href="#">Eliminar</a></li>
